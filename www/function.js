@@ -1,10 +1,10 @@
 var versi = "1";
-var url = "https://kanaya.my.id/app/";
-var url_admin = "https://kanaya.my.id/";
+var url = "https://velove.my.id/app/";
+var url_admin = "https://velove.my.id/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
-var nama_aplikasi='Kanaya';
+var nama_aplikasi='Velove';
 var id_pelanggan=localStorage.getItem('id_pelanggan');
 
 var ua = navigator.userAgent.toLowerCase();
