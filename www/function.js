@@ -1,6 +1,6 @@
 var versi = "1";
-var url = "https://velove.my.id/app/";
-var url_admin = "https://velove.my.id/";
+var url = "https://velove.web.id/app/";
+var url_admin = "https://velove.web.id/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
